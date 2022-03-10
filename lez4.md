@@ -62,8 +62,8 @@ I/O o alla scadenza del suo quanto di tempo) la CPU, che entra in modalità supe
 di eseguire un processo ed eseguire il **dispatch** di un nuovo processo.  
 In dettaglio:  
 - Un interrupt segnala il termine del quanto di tempo allocato al processo attualmente in stato
-Running, oppure il processo avvia una richiesta di I/O; in entrambi i casim la CPU passa in
-modalit`a privilegiata.
+Running, oppure il processo avvia una richiesta di I/O; in entrambi i casi la CPU passa in
+modalità privilegiata.
 - Parte l’operazione di cambio di contesto (context switch):  
     – Il contesto del processo in esecuzione viene salvato nel relativo PCB.  
     – Il PCB viene accodato alla lista dei processi pertinente.  
