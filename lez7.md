@@ -52,3 +52,4 @@ Lo standard POSIX prevede varie implementazioni di canali di comunicazione tra p
   - Orientati al flusso di byte o allo scambio di messaggi
   - Bidirezionali
   - Asincroni
+

@@ -17,7 +17,7 @@
   });
 </script>
 
-# Sistemi Operativi - Lezione 6  
+# Sistemi Operativi - Lezione 8  
 
 ---
 Gli Scheduler:
